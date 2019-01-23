@@ -15,6 +15,7 @@ class VggNet(nn.Module):
         super(VggNet, self).__init__()
 
     def forward(self, x):
+        return x
         pass
 
 
